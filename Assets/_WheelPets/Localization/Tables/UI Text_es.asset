@@ -95,6 +95,31 @@ MonoBehaviour:
       appara\xEEt en haut de l'\xE9cran !"
     m_Metadata:
       m_Items: []
+  - m_Id: 1095093480615936
+    m_Localized: "\xA1Vamos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096087564218368
+    m_Localized: "\xA1Juego terminado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096414283722752
+    m_Localized: "C\xF3mo Jugar a Buscar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096679648948224
+    m_Localized: "<- \nHaz clic en cualquier parte cuando la barra blanca est\xE9
+      sobre la pelota de tenis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096943755882496
+    m_Localized: "\xA1Si no haces clic en 5 -> \nsegundos, pierdes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097194411683840
+    m_Localized: "\xA1Intenta conseguir la puntuaci\xF3n m\xE1s alta! ->"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

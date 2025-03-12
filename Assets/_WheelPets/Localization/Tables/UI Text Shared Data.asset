@@ -91,6 +91,30 @@ MonoBehaviour:
     m_Key: How To Tug Text 2
     m_Metadata:
       m_Items: []
+  - m_Id: 1095093480615936
+    m_Key: Go Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096087564218368
+    m_Key: Game Over Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096414283722752
+    m_Key: Fetch Instruction 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096679648948224
+    m_Key: Fetch Instruction 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096943755882496
+    m_Key: Fetch Instruction 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097194411683840
+    m_Key: Fetch Instruction 4
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

@@ -95,6 +95,31 @@ MonoBehaviour:
       palabra '\xA1Toca!' aparezca en la parte superior de la pantalla!"
     m_Metadata:
       m_Items: []
+  - m_Id: 1095093480615936
+    m_Localized: Allez !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096087564218368
+    m_Localized: Fin du jeu !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096414283722752
+    m_Localized: "Comment Jouer \xE0 Rapporter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096679648948224
+    m_Localized: "<- \nCliquez n'importe o\xF9 lorsque la barre blanche est au-dessus
+      de la balle de tennis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096943755882496
+    m_Localized: "Si tu ne cliques pas pendant 5 -> \nsecondes, tu perds !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097194411683840
+    m_Localized: Essaie d'obtenir le meilleur score ! ->
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
