@@ -27,7 +27,7 @@ public class FetchInstructions : MonoBehaviour
         }
     }
 
-    void OnInstructionsButtonClick()
+    public void OnInstructionsButtonClick()
     {
         // Freeze the game
         if (fetchScript != null)
@@ -47,7 +47,7 @@ public class FetchInstructions : MonoBehaviour
         if (instructionsBackButton != null) instructionsBackButton.SetActive(true);
     }
 
-    void OnInstructionsBackButtonClick()
+    public void OnInstructionsBackButtonClick()
     {
         // Restart the game
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
