@@ -28,7 +28,7 @@ public class TugOfWarInstructions : MonoBehaviour
         }
     }
 
-    void OnInstructionsButtonClick()
+    public void OnInstructionsButtonClick()
     {
         // Freeze the game
         if (tugOfWarManager != null)
@@ -49,7 +49,7 @@ public class TugOfWarInstructions : MonoBehaviour
         if (instructionsBackButton != null) instructionsBackButton.SetActive(true);
     }
 
-    void OnInstructionsBackButtonClick()
+    public void OnInstructionsBackButtonClick()
     {
         // Restart the game
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
